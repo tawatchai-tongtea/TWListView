@@ -8,7 +8,12 @@ Load more listview for react native
 ![Alt Text](https://github.com/tawatchai-tongtea/TWListView/blob/master/demo/demo.gif?raw=true)
 
 # Install
+```js
 npm install twlistview --save
+```
+```js
+npm install lottie-react-native --save
+```
 
 # Getting started
 
