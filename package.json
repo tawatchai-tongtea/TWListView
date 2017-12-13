@@ -1,0 +1,23 @@
+{
+  "name": "twlistview",
+  "version": "1.0.3",
+  "description": "load more listview for react native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawatchai-tongtea/TWListView.git"
+  },
+  "keywords": [
+    "ListView",
+    "LoadMore"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawatchai-tongtea/TWListView/issues"
+  },
+  "homepage": "https://github.com/tawatchai-tongtea/TWListView#readme"
+}
